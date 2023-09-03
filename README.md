@@ -1,7 +1,5 @@
 # Soham Vaity
 
-![Profile Picture](Main.png)
-
 ## About Me
 
 Hello there! 👋 I'm Soham Vaity, a passionate programmer and Game Developer based in Mumbai, India. I love Learning from Curiosoty. This README is a glimpse into who I am and what I do.
