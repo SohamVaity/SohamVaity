@@ -1,4 +1,5 @@
 # Soham Vaity
+![Profile Picture](Main.png)
 
 ## About Me
 
